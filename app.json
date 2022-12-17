@@ -28,7 +28,7 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "daisyXmusic_bot"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
