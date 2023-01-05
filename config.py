@@ -19,10 +19,10 @@ APP_ID = int(os.environ.get("APP_ID", "14998189")
 API_HASH = os.environ.get("API_HASH", "982618d72ec545b1fa7fcca30fd96a65")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001314036912"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001314036912")
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "1488316798"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1488316798")
 
 #Port
 PORT = os.environ.get("PORT", "8080")
@@ -34,7 +34,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "akugay")
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001314036912"))
 
-TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
+TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4")
 
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.")
